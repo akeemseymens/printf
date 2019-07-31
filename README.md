@@ -13,7 +13,7 @@ OPTIONS for conversions specifiers:
 + %s: Prints a string of characters.
 + %d: Prints integer.
 + %i: Prints integer.
-
++ %R: Prints Rot13 converter.
 ## Usage
 + Your code should use the Betty style. It will be checked using betty-style.pl
   and betty-doc.pl
@@ -35,6 +35,7 @@ OPTIONS for conversions specifiers:
 + va_end (man 3 va_end)
 + va_copy (man 3 va_copy)
 + va_arg (man 3 va_arg)
+
 
 ## Files
 + Holberton.h : Header file which contains all functions prototypes
